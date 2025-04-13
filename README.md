@@ -8,6 +8,7 @@
 **Theme**: Адаптивная верстка, API и ООП.
 
 This is a web development project for the Advanced JavaScript module.
+
 **Theme**: Adaptive and responsive make up, API, OOP.
 
 ## ⚙ **Stack**
